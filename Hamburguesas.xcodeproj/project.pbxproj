@@ -7,6 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E58122301CA22B6B00D745D2 /* argentinaBurger.png in Resources */ = {isa = PBXBuildFile; fileRef = E581221D1CA22B6B00D745D2 /* argentinaBurger.png */; };
+		E58122311CA22B6B00D745D2 /* boliviaBurger.png in Resources */ = {isa = PBXBuildFile; fileRef = E581221E1CA22B6B00D745D2 /* boliviaBurger.png */; };
+		E58122321CA22B6B00D745D2 /* brasilBurger.png in Resources */ = {isa = PBXBuildFile; fileRef = E581221F1CA22B6B00D745D2 /* brasilBurger.png */; };
+		E58122331CA22B6B00D745D2 /* canadaBurger.png in Resources */ = {isa = PBXBuildFile; fileRef = E58122201CA22B6B00D745D2 /* canadaBurger.png */; };
+		E58122341CA22B6B00D745D2 /* chileBurger.png in Resources */ = {isa = PBXBuildFile; fileRef = E58122211CA22B6B00D745D2 /* chileBurger.png */; };
+		E58122361CA22B6B00D745D2 /* costaricaBurger.png in Resources */ = {isa = PBXBuildFile; fileRef = E58122231CA22B6B00D745D2 /* costaricaBurger.png */; };
+		E58122371CA22B6B00D745D2 /* ecuadorBurger.png in Resources */ = {isa = PBXBuildFile; fileRef = E58122241CA22B6B00D745D2 /* ecuadorBurger.png */; };
+		E58122381CA22B6B00D745D2 /* elsalvadorBurger.png in Resources */ = {isa = PBXBuildFile; fileRef = E58122251CA22B6B00D745D2 /* elsalvadorBurger.png */; };
+		E58122391CA22B6B00D745D2 /* guatemalaBurger.png in Resources */ = {isa = PBXBuildFile; fileRef = E58122261CA22B6B00D745D2 /* guatemalaBurger.png */; };
+		E581223A1CA22B6B00D745D2 /* guyanaBurger.png in Resources */ = {isa = PBXBuildFile; fileRef = E58122271CA22B6B00D745D2 /* guyanaBurger.png */; };
+		E581223B1CA22B6B00D745D2 /* hondurasBurger.png in Resources */ = {isa = PBXBuildFile; fileRef = E58122281CA22B6B00D745D2 /* hondurasBurger.png */; };
+		E581223C1CA22B6B00D745D2 /* mexicoBurger.png in Resources */ = {isa = PBXBuildFile; fileRef = E58122291CA22B6B00D745D2 /* mexicoBurger.png */; };
+		E581223D1CA22B6B00D745D2 /* nicaraguaBurger.png in Resources */ = {isa = PBXBuildFile; fileRef = E581222A1CA22B6B00D745D2 /* nicaraguaBurger.png */; };
+		E581223E1CA22B6B00D745D2 /* panamaBurger.png in Resources */ = {isa = PBXBuildFile; fileRef = E581222B1CA22B6B00D745D2 /* panamaBurger.png */; };
+		E581223F1CA22B6B00D745D2 /* paraguayBurger.png in Resources */ = {isa = PBXBuildFile; fileRef = E581222C1CA22B6B00D745D2 /* paraguayBurger.png */; };
+		E58122401CA22B6B00D745D2 /* peruBurger.png in Resources */ = {isa = PBXBuildFile; fileRef = E581222D1CA22B6B00D745D2 /* peruBurger.png */; };
+		E58122411CA22B6B00D745D2 /* uruguayBurger.png in Resources */ = {isa = PBXBuildFile; fileRef = E581222E1CA22B6B00D745D2 /* uruguayBurger.png */; };
+		E58122421CA22B6B00D745D2 /* usaBurger.png in Resources */ = {isa = PBXBuildFile; fileRef = E581222F1CA22B6B00D745D2 /* usaBurger.png */; };
+		E58122441CA22C6200D745D2 /* colombiaBurger.png in Resources */ = {isa = PBXBuildFile; fileRef = E58122431CA22C6200D745D2 /* colombiaBurger.png */; };
+		E58122461CA22EB300D745D2 /* venezuelaBurger.png in Resources */ = {isa = PBXBuildFile; fileRef = E58122451CA22EB300D745D2 /* venezuelaBurger.png */; };
 		E59124391CA072ED006134FF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59124381CA072ED006134FF /* AppDelegate.swift */; };
 		E591243B1CA072ED006134FF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E591243A1CA072ED006134FF /* ViewController.swift */; };
 		E591243E1CA072ED006134FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E591243C1CA072ED006134FF /* Main.storyboard */; };
@@ -14,6 +34,28 @@
 		E59124431CA072ED006134FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E59124411CA072ED006134FF /* LaunchScreen.storyboard */; };
 		E591244E1CA072ED006134FF /* HamburguesasTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E591244D1CA072ED006134FF /* HamburguesasTests.swift */; };
 		E59124591CA072ED006134FF /* HamburguesasUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59124581CA072ED006134FF /* HamburguesasUITests.swift */; };
+		E591246A1CA074E5006134FF /* datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59124691CA074E5006134FF /* datos.swift */; };
+		E591246C1CA08C70006134FF /* estructurasDatos.swift in Sources */ = {isa = PBXBuildFile; fileRef = E591246B1CA08C70006134FF /* estructurasDatos.swift */; };
+		E591246F1CA09EB7006134FF /* colombiaFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = E591246E1CA09EB7006134FF /* colombiaFlag.png */; };
+		E591247C1CA0B2EE006134FF /* argentinaFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = E59124771CA0B2EE006134FF /* argentinaFlag.png */; };
+		E591247D1CA0B2EE006134FF /* boliviaFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = E59124781CA0B2EE006134FF /* boliviaFlag.png */; };
+		E591247E1CA0B2EE006134FF /* brasilFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = E59124791CA0B2EE006134FF /* brasilFlag.png */; };
+		E591247F1CA0B2EE006134FF /* canadaFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = E591247A1CA0B2EE006134FF /* canadaFlag.png */; };
+		E59124801CA0B2EE006134FF /* chileFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = E591247B1CA0B2EE006134FF /* chileFlag.png */; };
+		E591248F1CA0B2FC006134FF /* costaricaFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = E59124811CA0B2FC006134FF /* costaricaFlag.png */; };
+		E59124901CA0B2FC006134FF /* ecuadorFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = E59124821CA0B2FC006134FF /* ecuadorFlag.png */; };
+		E59124911CA0B2FC006134FF /* elsalvadorFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = E59124831CA0B2FC006134FF /* elsalvadorFlag.png */; };
+		E59124921CA0B2FC006134FF /* guatemalaFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = E59124841CA0B2FC006134FF /* guatemalaFlag.png */; };
+		E59124931CA0B2FC006134FF /* guyanaFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = E59124851CA0B2FC006134FF /* guyanaFlag.png */; };
+		E59124941CA0B2FC006134FF /* hondurasFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = E59124861CA0B2FC006134FF /* hondurasFlag.png */; };
+		E59124951CA0B2FC006134FF /* mexicoFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = E59124871CA0B2FC006134FF /* mexicoFlag.png */; };
+		E59124961CA0B2FC006134FF /* nicaraguaFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = E59124881CA0B2FC006134FF /* nicaraguaFlag.png */; };
+		E59124971CA0B2FC006134FF /* panamaFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = E59124891CA0B2FC006134FF /* panamaFlag.png */; };
+		E59124981CA0B2FC006134FF /* paraguayFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = E591248A1CA0B2FC006134FF /* paraguayFlag.png */; };
+		E59124991CA0B2FC006134FF /* peruFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = E591248B1CA0B2FC006134FF /* peruFlag.png */; };
+		E591249A1CA0B2FC006134FF /* uruguayFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = E591248C1CA0B2FC006134FF /* uruguayFlag.png */; };
+		E591249B1CA0B2FC006134FF /* usaFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = E591248D1CA0B2FC006134FF /* usaFlag.png */; };
+		E591249C1CA0B2FC006134FF /* venezuelaFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = E591248E1CA0B2FC006134FF /* venezuelaFlag.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +76,26 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E581221D1CA22B6B00D745D2 /* argentinaBurger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = argentinaBurger.png; sourceTree = "<group>"; };
+		E581221E1CA22B6B00D745D2 /* boliviaBurger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boliviaBurger.png; sourceTree = "<group>"; };
+		E581221F1CA22B6B00D745D2 /* brasilBurger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = brasilBurger.png; sourceTree = "<group>"; };
+		E58122201CA22B6B00D745D2 /* canadaBurger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = canadaBurger.png; sourceTree = "<group>"; };
+		E58122211CA22B6B00D745D2 /* chileBurger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chileBurger.png; sourceTree = "<group>"; };
+		E58122231CA22B6B00D745D2 /* costaricaBurger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = costaricaBurger.png; sourceTree = "<group>"; };
+		E58122241CA22B6B00D745D2 /* ecuadorBurger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ecuadorBurger.png; sourceTree = "<group>"; };
+		E58122251CA22B6B00D745D2 /* elsalvadorBurger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = elsalvadorBurger.png; sourceTree = "<group>"; };
+		E58122261CA22B6B00D745D2 /* guatemalaBurger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = guatemalaBurger.png; sourceTree = "<group>"; };
+		E58122271CA22B6B00D745D2 /* guyanaBurger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = guyanaBurger.png; sourceTree = "<group>"; };
+		E58122281CA22B6B00D745D2 /* hondurasBurger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hondurasBurger.png; sourceTree = "<group>"; };
+		E58122291CA22B6B00D745D2 /* mexicoBurger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mexicoBurger.png; sourceTree = "<group>"; };
+		E581222A1CA22B6B00D745D2 /* nicaraguaBurger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nicaraguaBurger.png; sourceTree = "<group>"; };
+		E581222B1CA22B6B00D745D2 /* panamaBurger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = panamaBurger.png; sourceTree = "<group>"; };
+		E581222C1CA22B6B00D745D2 /* paraguayBurger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = paraguayBurger.png; sourceTree = "<group>"; };
+		E581222D1CA22B6B00D745D2 /* peruBurger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = peruBurger.png; sourceTree = "<group>"; };
+		E581222E1CA22B6B00D745D2 /* uruguayBurger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = uruguayBurger.png; sourceTree = "<group>"; };
+		E581222F1CA22B6B00D745D2 /* usaBurger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = usaBurger.png; sourceTree = "<group>"; };
+		E58122431CA22C6200D745D2 /* colombiaBurger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = colombiaBurger.png; sourceTree = "<group>"; };
+		E58122451CA22EB300D745D2 /* venezuelaBurger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = venezuelaBurger.png; sourceTree = "<group>"; };
 		E59124351CA072ED006134FF /* Hamburguesas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hamburguesas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E59124381CA072ED006134FF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E591243A1CA072ED006134FF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +109,29 @@
 		E59124541CA072ED006134FF /* HamburguesasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HamburguesasUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E59124581CA072ED006134FF /* HamburguesasUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HamburguesasUITests.swift; sourceTree = "<group>"; };
 		E591245A1CA072ED006134FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E59124671CA07414006134FF /* burguerPlayGround.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = burguerPlayGround.playground; sourceTree = "<group>"; };
+		E59124691CA074E5006134FF /* datos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = datos.swift; sourceTree = "<group>"; };
+		E591246B1CA08C70006134FF /* estructurasDatos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = estructurasDatos.swift; sourceTree = "<group>"; };
+		E591246E1CA09EB7006134FF /* colombiaFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = colombiaFlag.png; sourceTree = "<group>"; };
+		E59124771CA0B2EE006134FF /* argentinaFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = argentinaFlag.png; sourceTree = "<group>"; };
+		E59124781CA0B2EE006134FF /* boliviaFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boliviaFlag.png; sourceTree = "<group>"; };
+		E59124791CA0B2EE006134FF /* brasilFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = brasilFlag.png; sourceTree = "<group>"; };
+		E591247A1CA0B2EE006134FF /* canadaFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = canadaFlag.png; sourceTree = "<group>"; };
+		E591247B1CA0B2EE006134FF /* chileFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chileFlag.png; sourceTree = "<group>"; };
+		E59124811CA0B2FC006134FF /* costaricaFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = costaricaFlag.png; sourceTree = "<group>"; };
+		E59124821CA0B2FC006134FF /* ecuadorFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ecuadorFlag.png; sourceTree = "<group>"; };
+		E59124831CA0B2FC006134FF /* elsalvadorFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = elsalvadorFlag.png; sourceTree = "<group>"; };
+		E59124841CA0B2FC006134FF /* guatemalaFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = guatemalaFlag.png; sourceTree = "<group>"; };
+		E59124851CA0B2FC006134FF /* guyanaFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = guyanaFlag.png; sourceTree = "<group>"; };
+		E59124861CA0B2FC006134FF /* hondurasFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hondurasFlag.png; sourceTree = "<group>"; };
+		E59124871CA0B2FC006134FF /* mexicoFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mexicoFlag.png; sourceTree = "<group>"; };
+		E59124881CA0B2FC006134FF /* nicaraguaFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nicaraguaFlag.png; sourceTree = "<group>"; };
+		E59124891CA0B2FC006134FF /* panamaFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = panamaFlag.png; sourceTree = "<group>"; };
+		E591248A1CA0B2FC006134FF /* paraguayFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = paraguayFlag.png; sourceTree = "<group>"; };
+		E591248B1CA0B2FC006134FF /* peruFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = peruFlag.png; sourceTree = "<group>"; };
+		E591248C1CA0B2FC006134FF /* uruguayFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = uruguayFlag.png; sourceTree = "<group>"; };
+		E591248D1CA0B2FC006134FF /* usaFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = usaFlag.png; sourceTree = "<group>"; };
+		E591248E1CA0B2FC006134FF /* venezuelaFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = venezuelaFlag.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,11 +183,16 @@
 			isa = PBXGroup;
 			children = (
 				E59124381CA072ED006134FF /* AppDelegate.swift */,
+				E59124691CA074E5006134FF /* datos.swift */,
+				E591246B1CA08C70006134FF /* estructurasDatos.swift */,
 				E591243A1CA072ED006134FF /* ViewController.swift */,
 				E591243C1CA072ED006134FF /* Main.storyboard */,
 				E591243F1CA072ED006134FF /* Assets.xcassets */,
 				E59124411CA072ED006134FF /* LaunchScreen.storyboard */,
 				E59124441CA072ED006134FF /* Info.plist */,
+				E59124701CA09EC6006134FF /* imagesBurger */,
+				E591246D1CA09E8E006134FF /* imagesFlags */,
+				E59124681CA074B4006134FF /* Hamburguesas_PlayGround */,
 			);
 			path = Hamburguesas;
 			sourceTree = "<group>";
@@ -123,6 +213,68 @@
 				E591245A1CA072ED006134FF /* Info.plist */,
 			);
 			path = HamburguesasUITests;
+			sourceTree = "<group>";
+		};
+		E59124681CA074B4006134FF /* Hamburguesas_PlayGround */ = {
+			isa = PBXGroup;
+			children = (
+				E59124671CA07414006134FF /* burguerPlayGround.playground */,
+			);
+			name = Hamburguesas_PlayGround;
+			sourceTree = "<group>";
+		};
+		E591246D1CA09E8E006134FF /* imagesFlags */ = {
+			isa = PBXGroup;
+			children = (
+				E59124771CA0B2EE006134FF /* argentinaFlag.png */,
+				E59124781CA0B2EE006134FF /* boliviaFlag.png */,
+				E59124791CA0B2EE006134FF /* brasilFlag.png */,
+				E591247A1CA0B2EE006134FF /* canadaFlag.png */,
+				E591247B1CA0B2EE006134FF /* chileFlag.png */,
+				E59124811CA0B2FC006134FF /* costaricaFlag.png */,
+				E59124821CA0B2FC006134FF /* ecuadorFlag.png */,
+				E59124831CA0B2FC006134FF /* elsalvadorFlag.png */,
+				E59124841CA0B2FC006134FF /* guatemalaFlag.png */,
+				E59124851CA0B2FC006134FF /* guyanaFlag.png */,
+				E59124861CA0B2FC006134FF /* hondurasFlag.png */,
+				E59124871CA0B2FC006134FF /* mexicoFlag.png */,
+				E59124881CA0B2FC006134FF /* nicaraguaFlag.png */,
+				E59124891CA0B2FC006134FF /* panamaFlag.png */,
+				E591248A1CA0B2FC006134FF /* paraguayFlag.png */,
+				E591248B1CA0B2FC006134FF /* peruFlag.png */,
+				E591248C1CA0B2FC006134FF /* uruguayFlag.png */,
+				E591248D1CA0B2FC006134FF /* usaFlag.png */,
+				E591248E1CA0B2FC006134FF /* venezuelaFlag.png */,
+				E591246E1CA09EB7006134FF /* colombiaFlag.png */,
+			);
+			name = imagesFlags;
+			sourceTree = "<group>";
+		};
+		E59124701CA09EC6006134FF /* imagesBurger */ = {
+			isa = PBXGroup;
+			children = (
+				E581221D1CA22B6B00D745D2 /* argentinaBurger.png */,
+				E581221E1CA22B6B00D745D2 /* boliviaBurger.png */,
+				E581221F1CA22B6B00D745D2 /* brasilBurger.png */,
+				E58122201CA22B6B00D745D2 /* canadaBurger.png */,
+				E58122211CA22B6B00D745D2 /* chileBurger.png */,
+				E58122431CA22C6200D745D2 /* colombiaBurger.png */,
+				E58122231CA22B6B00D745D2 /* costaricaBurger.png */,
+				E58122241CA22B6B00D745D2 /* ecuadorBurger.png */,
+				E58122251CA22B6B00D745D2 /* elsalvadorBurger.png */,
+				E58122261CA22B6B00D745D2 /* guatemalaBurger.png */,
+				E58122271CA22B6B00D745D2 /* guyanaBurger.png */,
+				E58122281CA22B6B00D745D2 /* hondurasBurger.png */,
+				E58122291CA22B6B00D745D2 /* mexicoBurger.png */,
+				E581222A1CA22B6B00D745D2 /* nicaraguaBurger.png */,
+				E581222B1CA22B6B00D745D2 /* panamaBurger.png */,
+				E581222C1CA22B6B00D745D2 /* paraguayBurger.png */,
+				E581222D1CA22B6B00D745D2 /* peruBurger.png */,
+				E581222E1CA22B6B00D745D2 /* uruguayBurger.png */,
+				E581222F1CA22B6B00D745D2 /* usaBurger.png */,
+				E58122451CA22EB300D745D2 /* venezuelaBurger.png */,
+			);
+			name = imagesBurger;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,9 +384,49 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E58122421CA22B6B00D745D2 /* usaBurger.png in Resources */,
+				E58122411CA22B6B00D745D2 /* uruguayBurger.png in Resources */,
+				E591247E1CA0B2EE006134FF /* brasilFlag.png in Resources */,
+				E58122321CA22B6B00D745D2 /* brasilBurger.png in Resources */,
+				E59124991CA0B2FC006134FF /* peruFlag.png in Resources */,
+				E58122361CA22B6B00D745D2 /* costaricaBurger.png in Resources */,
+				E59124961CA0B2FC006134FF /* nicaraguaFlag.png in Resources */,
+				E59124941CA0B2FC006134FF /* hondurasFlag.png in Resources */,
+				E59124981CA0B2FC006134FF /* paraguayFlag.png in Resources */,
+				E591249C1CA0B2FC006134FF /* venezuelaFlag.png in Resources */,
+				E581223D1CA22B6B00D745D2 /* nicaraguaBurger.png in Resources */,
 				E59124431CA072ED006134FF /* LaunchScreen.storyboard in Resources */,
+				E58122391CA22B6B00D745D2 /* guatemalaBurger.png in Resources */,
+				E58122371CA22B6B00D745D2 /* ecuadorBurger.png in Resources */,
+				E591247D1CA0B2EE006134FF /* boliviaFlag.png in Resources */,
+				E59124901CA0B2FC006134FF /* ecuadorFlag.png in Resources */,
+				E591247F1CA0B2EE006134FF /* canadaFlag.png in Resources */,
+				E581223C1CA22B6B00D745D2 /* mexicoBurger.png in Resources */,
+				E59124971CA0B2FC006134FF /* panamaFlag.png in Resources */,
+				E591249A1CA0B2FC006134FF /* uruguayFlag.png in Resources */,
+				E59124911CA0B2FC006134FF /* elsalvadorFlag.png in Resources */,
+				E58122311CA22B6B00D745D2 /* boliviaBurger.png in Resources */,
 				E59124401CA072ED006134FF /* Assets.xcassets in Resources */,
+				E591248F1CA0B2FC006134FF /* costaricaFlag.png in Resources */,
 				E591243E1CA072ED006134FF /* Main.storyboard in Resources */,
+				E581223E1CA22B6B00D745D2 /* panamaBurger.png in Resources */,
+				E581223B1CA22B6B00D745D2 /* hondurasBurger.png in Resources */,
+				E58122341CA22B6B00D745D2 /* chileBurger.png in Resources */,
+				E58122331CA22B6B00D745D2 /* canadaBurger.png in Resources */,
+				E581223F1CA22B6B00D745D2 /* paraguayBurger.png in Resources */,
+				E591246F1CA09EB7006134FF /* colombiaFlag.png in Resources */,
+				E59124951CA0B2FC006134FF /* mexicoFlag.png in Resources */,
+				E591247C1CA0B2EE006134FF /* argentinaFlag.png in Resources */,
+				E591249B1CA0B2FC006134FF /* usaFlag.png in Resources */,
+				E58122441CA22C6200D745D2 /* colombiaBurger.png in Resources */,
+				E58122381CA22B6B00D745D2 /* elsalvadorBurger.png in Resources */,
+				E58122461CA22EB300D745D2 /* venezuelaBurger.png in Resources */,
+				E59124801CA0B2EE006134FF /* chileFlag.png in Resources */,
+				E59124921CA0B2FC006134FF /* guatemalaFlag.png in Resources */,
+				E58122401CA22B6B00D745D2 /* peruBurger.png in Resources */,
+				E58122301CA22B6B00D745D2 /* argentinaBurger.png in Resources */,
+				E59124931CA0B2FC006134FF /* guyanaFlag.png in Resources */,
+				E581223A1CA22B6B00D745D2 /* guyanaBurger.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,6 +451,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E591246A1CA074E5006134FF /* datos.swift in Sources */,
+				E591246C1CA08C70006134FF /* estructurasDatos.swift in Sources */,
 				E591243B1CA072ED006134FF /* ViewController.swift in Sources */,
 				E59124391CA072ED006134FF /* AppDelegate.swift in Sources */,
 			);
@@ -401,6 +595,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Hamburguesas/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jovsCorp.Hamburguesas;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -412,6 +607,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Hamburguesas/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jovsCorp.Hamburguesas;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -485,6 +681,7 @@
 				E591245F1CA072ED006134FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E59124601CA072ED006134FF /* Build configuration list for PBXNativeTarget "HamburguesasTests" */ = {
 			isa = XCConfigurationList;
@@ -493,6 +690,7 @@
 				E59124621CA072ED006134FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E59124631CA072ED006134FF /* Build configuration list for PBXNativeTarget "HamburguesasUITests" */ = {
 			isa = XCConfigurationList;
@@ -501,6 +699,7 @@
 				E59124651CA072ED006134FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
